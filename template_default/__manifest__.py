@@ -68,7 +68,7 @@
     'longpolling_port': '8115',
 
     'git-repos': [
-        'https://github.com/sebacorreacalamuchita/cl-cabanaeltala',
+        'https://github.com/sebacorreacalamuchita/cl-cabanaeltala.git',
 
         # OCA
         'https://github.com/OCA/server-tools oca-server-tools',
