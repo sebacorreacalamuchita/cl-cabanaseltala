@@ -19,12 +19,12 @@
 ##############################################################################
 
 {
-    'name': 'cabanaeltala',
+    'name': 'cabanaseltala',
     'version': '13.0.1.0.0',
     'category': 'Tools',
     'summary': "Test for v13 CE",
     'author': "jeo Software",
-    'website': 'https://github.com/sebacorreacalamuchita/cl-cabanaeltala',
+    'website': 'https://github.com/sebacorreacalamuchita/cl-cabanaseltala',
     'license': 'AGPL-3',
     'depends': [
         'standard_depends_ce'
@@ -68,7 +68,7 @@
     'longpolling_port': '8115',
 
     'git-repos': [
-        'https://github.com/sebacorreacalamuchita/cl-cabanaeltala.git',
+        'https://github.com/sebacorreacalamuchita/cl-cabanaseltala.git',
 
         # OCA
         'https://github.com/OCA/server-tools oca-server-tools',

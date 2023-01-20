@@ -1,3 +1,3 @@
-# cl-cabanaElTala
+# Cabañas El Tala
 
 Probaremos algo nuevo!
